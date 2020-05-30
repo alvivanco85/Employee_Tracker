@@ -33,4 +33,4 @@ Open up the root directory in your terminal. "Npm i" to install packages. Use "n
 * Github Project
 
 ## Pictures
-![Employee Tracker Demo GIF]()
+![Employee Tracker Demo GIF](https://github.com/alvivanco85/Employee_Tracker/blob/master/Employee_Directroy.gif)
