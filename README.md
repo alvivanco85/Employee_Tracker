@@ -8,6 +8,7 @@ An application that let's you interact with information stored in a MySQL databa
 3. [Installation](#Installation)
 4. [Contributors](#Contributors)
 5. [Links](#Links)
+6. [Pictures](#Pictures)
 
 
 ## User Story
@@ -30,3 +31,6 @@ Open up the root directory in your terminal. "Npm i" to install packages. Use "n
 
 ## Links
 * Github Project
+
+## Pictures
+![Employee Tracker Demo GIF]()
